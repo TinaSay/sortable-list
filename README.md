@@ -2,6 +2,10 @@
 
 Display a scrambled list that can be sorted with drag and drop
 
+## Demo
+
+https://tinasay.github.io/sortable-list/
+
 ## Project Specifications
 
 - Create an ordered list (Top 10 richest people)
